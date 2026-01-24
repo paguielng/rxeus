@@ -48,9 +48,9 @@ Le jeu propose cinq durées de match différentes pour adapter le temps de jeu �
 
 | Action | Touche |
 |--------|--------|
-| Déplacement gauche | **J** |
-| Déplacement droit | **L** |
-| Saut | **I** |
+| Déplacement gauche | **←** |
+| Déplacement droit | **→** |
+| Saut | **↑** |
 
 ## Architecture technique
 
