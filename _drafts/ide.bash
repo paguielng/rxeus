@@ -1,0 +1,5 @@
+**********************************************************************
+** Visual Studio 2022 Developer PowerShell v17.14.13
+** Copyright (c) 2025 Microsoft Corporation
+**********************************************************************
+PS C:\Users\User\source\repos>
