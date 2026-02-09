@@ -167,19 +167,6 @@ La balle suit une physique réaliste avec les caractéristiques suivantes :
 
 La détection de collision slime-balle utilise une approche basée sur la distance. Si la distance entre le centre de la balle et le centre du slime est inférieure à la somme de leurs rayons, une collision est détectée. La réponse à la collision repositionne la balle et recalcule sa vélocité en fonction de l'angle de collision.
 
-## Améliorations futures
-
-Le jeu peut être enrichi avec les fonctionnalités suivantes :
-
-- **Mode IA** : Ajouter un adversaire contrôlé par l'ordinateur pour le jeu en solo
-- **Système de saisie de balle** : Permettre aux slimes de saisir et de tenir la balle
-- **Anti-camping** : Pénaliser les joueurs qui restent trop longtemps dans leur zone de but
-- **Effets sonores** : Ajouter des sons pour les rebonds, les buts et les événements de jeu
-- **Animations améliorées** : Intégrer des animations fluides pour les slimes et la balle
-- **Statistiques** : Tracker les performances des joueurs (buts marqués, temps de possession, etc.)
-- **Thèmes visuels** : Proposer différents thèmes et palettes de couleurs
-- **Contrôles personnalisables** : Permettre aux joueurs de redéfinir leurs touches
-
 ## Dépannage
 
 ### Le jeu ne démarre pas
@@ -199,10 +186,6 @@ Vérifiez que votre navigateur n'exécute pas d'autres applications gourmandes e
 - **Jeu original** : Créé par Quin Pendragon (début des années 2000)
 - **Remake** : Hector Bennett
 - **Réimplémentation React** : Développé avec React 19 et Canvas 2D
-
-## Licence
-
-Ce projet est fourni à titre éducatif et récréatif. Veuillez consulter le fichier LICENSE pour plus de détails sur les conditions d'utilisation.
 
 ## Contribution
 
