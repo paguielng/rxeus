@@ -27,7 +27,7 @@ Créez un jeu de football 2D basé sur la physique intitulé “Slime Soccer” 
 - Modes de jeu : solo contre l'IA, multijoueur local
 - Style visuel : arcade rétro avec animations fluides et détection précise des collisions
 Les slimes doivent être rebondissants et réactifs, la balle doit avoir une physique réaliste lors des tirs ou des saisies, et l'IA doit être stimulante mais équitable. Incluez un système de menu pour la sélection de la durée de jeu.
-
+wst.mt
 <table>
 <tr>
    <td><img src="assets/pitch.png" alt="Slime Soccer Gameplay 1" width="300" height="200"></td>
